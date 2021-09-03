@@ -1,4 +1,4 @@
-const url = "http://kea-alt-del.dk/t7/api/categories";
+const url = "https://kea-alt-del.dk/t7/api/categories";
 
 fetch(url)
   .then(function (res) {
